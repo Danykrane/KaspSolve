@@ -1,4 +1,5 @@
 # KaspSolve
+
 gemini_C++
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/Danykrane/KaspSolve/blob/main/img/ezgif.com-gif-maker.gif)
